@@ -1,3 +1,5 @@
+HEROKU_EMAIL_ADDRESS=dominik.r.mall2@gmail.com
+
 # ----------------------------------
 #          INSTALL & TEST
 # ----------------------------------

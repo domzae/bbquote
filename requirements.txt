@@ -10,3 +10,5 @@ coverage
 flake8
 pytest
 yapf
+
+streamlit
